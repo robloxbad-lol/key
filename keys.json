@@ -1,8 +1,4 @@
 {
-    "test": {
-        "expiry": "PERMANENT",
-        "script": "https://raw.githubusercontent.com/..."
-    },
     "aa": {
         "expiry": "PERMANENT",
         "script": "https://raw.githubusercontent.com/..."
