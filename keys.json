@@ -1,1 +1,6 @@
-{}
+{
+    "test": {
+        "expiry": "2026-05-03 01:31:28",
+        "script": "https://raw.githubusercontent.com/..."
+    }
+}
