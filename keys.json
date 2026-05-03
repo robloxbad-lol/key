@@ -1,7 +1,1 @@
-{
-    "test": {
-        "expiry": "2026-05-03 13:14:32",
-        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/peyton2465/Dex/master/out.lua\"))()",
-        "hwid": null
-    }
-}
+{}
