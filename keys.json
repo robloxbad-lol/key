@@ -1,7 +1,1 @@
-{
-    "P02DDXK0": {
-        "expiry": "PERMANENT",
-        "script": "https://raw.githubusercontent.com/Klinac/scripts/main/utopia_spy.lua",
-        "hwid": null
-    }
-}
+{}
