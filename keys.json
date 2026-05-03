@@ -3,5 +3,10 @@
         "expiry": "PERMANENT",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Klinac/scripts/main/utopia_spy.lua\", true))()",
         "hwid": null
+    },
+    "3": {
+        "expiry": "2026-05-03 13:40:47",
+        "script": "Script URL",
+        "hwid": null
     }
 }
