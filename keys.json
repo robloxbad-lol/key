@@ -3,5 +3,10 @@
         "expiry": "2026-05-03 13:22:38",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt\"))()",
         "hwid": null
+    },
+    "testww": {
+        "expiry": "2026-05-03 13:27:00",
+        "script": "[https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt]",
+        "hwid": null
     }
 }
