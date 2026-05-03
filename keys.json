@@ -1,1 +1,7 @@
-{}
+{
+    "13131": {
+        "expiry": "2026-05-03 17:04:28",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Klinac/scripts/main/utopia_spy.lua\", true))()",
+        "hwid": null
+    }
+}
